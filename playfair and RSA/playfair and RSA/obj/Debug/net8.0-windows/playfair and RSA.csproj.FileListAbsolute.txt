@@ -1,0 +1,17 @@
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\bin\Debug\net8.0-windows\playfair and RSA.exe
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\bin\Debug\net8.0-windows\playfair and RSA.deps.json
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\bin\Debug\net8.0-windows\playfair and RSA.runtimeconfig.json
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\bin\Debug\net8.0-windows\playfair and RSA.dll
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\bin\Debug\net8.0-windows\playfair and RSA.pdb
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair_and_RSA.Form1.resources
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.csproj.GenerateResource.cache
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.AssemblyInfoInputs.cache
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.AssemblyInfo.cs
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.csproj.CoreCompileInputs.cache
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.dll
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\refint\playfair and RSA.dll
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.pdb
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair and RSA.genruntimeconfig.cache
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\ref\playfair and RSA.dll
+C:\Users\cc\Downloads\playfair and RSA\playfair and RSA\obj\Debug\net8.0-windows\playfair_and_RSA.Properties.Resources.resources
